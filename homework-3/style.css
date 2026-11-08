@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: #eef2f7;
+  color: #243447;
+  font-family: Arial, sans-serif;
+}
+
+.report {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+.summary-card {
+  background-color: #ffffff;
+  border: 1px solid #c9d6e3;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin: 8px 0;
+}
+
+.result-item {
+  background-color: #ffffff;
+  border: 1px solid #c9d6e3;
+  border-radius: 6px;
+  padding: 10px 14px;
+  margin: 6px 0;
+}
+
+.result-name {
+  font-weight: bold;
+  color: #1d6fb8;
+}
